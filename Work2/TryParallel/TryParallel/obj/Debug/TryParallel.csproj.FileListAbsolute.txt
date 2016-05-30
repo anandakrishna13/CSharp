@@ -1,0 +1,6 @@
+C:\NAK2\Work2\TryParallel\TryParallel\bin\Debug\TryParallel.exe.config
+C:\NAK2\Work2\TryParallel\TryParallel\bin\Debug\TryParallel.exe
+C:\NAK2\Work2\TryParallel\TryParallel\bin\Debug\TryParallel.pdb
+C:\NAK2\Work2\TryParallel\TryParallel\obj\Debug\TryParallel.csprojResolveAssemblyReference.cache
+C:\NAK2\Work2\TryParallel\TryParallel\obj\Debug\TryParallel.exe
+C:\NAK2\Work2\TryParallel\TryParallel\obj\Debug\TryParallel.pdb

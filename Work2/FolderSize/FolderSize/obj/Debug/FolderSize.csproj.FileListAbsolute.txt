@@ -1,0 +1,6 @@
+C:\Users\aknagaraja\Documents\Visual Studio 2012\Projects\FolderSize\FolderSize\bin\Debug\FolderSize.exe.config
+C:\Users\aknagaraja\Documents\Visual Studio 2012\Projects\FolderSize\FolderSize\bin\Debug\FolderSize.exe
+C:\Users\aknagaraja\Documents\Visual Studio 2012\Projects\FolderSize\FolderSize\bin\Debug\FolderSize.pdb
+C:\Users\aknagaraja\Documents\Visual Studio 2012\Projects\FolderSize\FolderSize\obj\Debug\FolderSize.exe
+C:\Users\aknagaraja\Documents\Visual Studio 2012\Projects\FolderSize\FolderSize\obj\Debug\FolderSize.pdb
+C:\Users\aknagaraja\Documents\Visual Studio 2012\Projects\FolderSize\FolderSize\obj\Debug\FolderSize.csprojResolveAssemblyReference.cache
